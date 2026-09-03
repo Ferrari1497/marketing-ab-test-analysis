@@ -57,3 +57,9 @@ Pythonを使用して、以下の分析を行いました。
 - statsmodels
 - Matplotlib
 - JupyterLab
+
+## Notebook
+
+分析の詳細・Pythonコード・実行結果は以下のNotebookにまとめています。
+
+[marketing_ab_test_analysis.ipynb](marketing_ab_test_analysis.ipynb)
